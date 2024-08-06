@@ -1,0 +1,2 @@
+resources/challenge_page_embeddings.csv filter=lfs diff=lfs merge=lfs -text
+resources/challenge_reader_history.csv filter=lfs diff=lfs merge=lfs -text
